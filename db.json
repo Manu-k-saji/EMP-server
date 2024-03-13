@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@demoapp.com",
+      "password": "demoapp123",
+      "name": "Admin",
+      "profilepic": ""
+    },
+    {
+      "id": "e4ae",
+      "empId": "EMP100",
+      "name": "Max Miller",
+      "email": "maxmiller@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "4691",
+      "empId": "EMP101",
+      "name": "Manu k Saji",
+      "email": "manuksaji123@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "969b",
+      "empId": "EMP102",
+      "name": "Jithin",
+      "email": "jithin@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "35a1",
+      "empId": "EMP103",
+      "name": "Nithin",
+      "email": "nithin@demoapp.com",
+      "status": "1"
+    },
+    {
+      "id": "6142",
+      "empId": "EMP104",
+      "name": "Abhi",
+      "email": "abhi@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "ccd6",
+      "empId": "EMP106",
+      "name": "Jani",
+      "email": "jani@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "e45e",
+      "empId": "EMP106",
+      "name": "Rojin",
+      "email": "rojin@gmail.com",
+      "status": "0"
+    }
+  ]
+}
